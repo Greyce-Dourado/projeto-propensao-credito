@@ -1,0 +1,22 @@
+{
+  "controle": {
+    "n": 587,
+    "inadimplencia": 0.5826,
+    "defaults": 342
+  },
+  "tratamento": {
+    "n": 612,
+    "inadimplencia": 0.4118,
+    "defaults": 252
+  },
+  "lift_abs_pp": -17.09,
+  "lift_rel_pct": -29.33,
+  "ic95_diff_pp": [
+    -22.66,
+    -11.51
+  ],
+  "p_valor": 3.3143495380102136e-09,
+  "significativo_5pct": true,
+  "aa_p_valor": 0.08178802093639297,
+  "efeito_assumido_rel": 0.2
+}

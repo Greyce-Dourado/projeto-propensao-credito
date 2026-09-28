@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Dados (reproduzíveis via download; ver README)
+data/raw/*
+data/processed/*
+!data/**/.gitkeep
+
+# Ferramentas
+.ipynb_checkpoints/
+.DS_Store

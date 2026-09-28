@@ -1,0 +1,9 @@
+{
+  "n_runs": 1000,
+  "poder_empirico": 0.97,
+  "lift_abs_medio_pp": -11.16,
+  "lift_rel_medio_pct": -19.93,
+  "lift_abs_desvio_pp": 2.79,
+  "falso_positivo_aa": 0.046,
+  "efeito_injetado_rel": 0.2
+}
